@@ -1,0 +1,17 @@
+# Instructions for the project
+
+## Setup
+To see the project working:
+* Sign in to make.com ( its a platform to run coded automations).
+* Upload the .json file from this repository to the make.com.
+* Connect all your APIs of different apps included.
+* Run the project to see it working.
+* This automation can only be controlled by the user on their end. No one else can access that.
+
+
+TRIGGER FORM for the automation:
+https://docs.google.com/forms/d/e/1FAIpQLSdSiZL0L6r3FS_D_HnZHHq6slEyVuvs3TIakfTTbN-xF5qqZg/viewform?pli=1&pli=1
+
+other resources used:
+Google Sheet to see the updated entries. ( only accessed by the user)
+trello account
